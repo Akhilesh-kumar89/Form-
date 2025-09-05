@@ -1,0 +1,72 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main-box{
+    height: 175vh;
+    border: 2px solid black;
+    width: 800px;
+    margin-left: 300px;
+    
+}
+h1{
+    font-size: 60px;
+    font-weight: 800;
+    font-style: italic;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: underline double violet;
+}
+h2{
+    margin-left: 20px;
+}
+.second-class{
+    margin-left: 20px;
+    margin-top: 30px;
+    margin: 30px;
+    
+    
+}
+#gender,#Category{
+    height: 30px;
+    width: 300px;
+    border-radius: 4px;
+    font-size: 18px;
+    
+}
+input{
+    height: 30px;
+    width: 400px;
+    border: 3px solid gray;
+    border-radius: 5px;
+    font-size: 18px;
+    
+   
+}
+button{
+    height: 35px;
+    width: 150px;
+    border: 2px solid black;
+    border-radius: 3px;
+    margin-left: 260px;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(81, 11, 146);
+}
+label{
+    font-size: 20px;
+    font-weight: 600;
+    
+
+}
+/* #math,#physics{
+    width: 200px;
+} */
+#sub{
+    margin-top: 15px;
+}
+/* #name,#contact,#father,#address,#blood,#file{
+    margin-top: 20px;
+} */
